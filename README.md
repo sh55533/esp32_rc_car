@@ -101,6 +101,6 @@ ESP32와 **같은 WiFi 네트워크**에 연결된 상태여야 합니다.
   - 보드 매니저 URL: `https://dl.espressif.com/dl/package_esp32_index.json`
 - 사용 라이브러리: `WiFi.h`, `WebServer.h` (ESP32 패키지 기본 포함)
 
--## 📷 실물 사진
+## 📷 실물 사진
 
-![RC Car](rc_car.jpg) 
+![RC Car](rc_car_esp32.png)
